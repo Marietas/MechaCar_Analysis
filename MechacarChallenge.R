@@ -1,8 +1,6 @@
 # import libray to load the dplyr package based on the dataframe
 library(dplyr)
-
 library(tidyverse)
-
 mecha_mpg <- read.csv(file='MechaCar_mpg.csv',check.names=F,stringsAsFactors = F) 
 
 # linear regression using the lm() function
