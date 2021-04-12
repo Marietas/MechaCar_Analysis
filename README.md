@@ -31,7 +31,7 @@ Each Pr(>|t|) value in the summary output reflects the probability that each coe
 
 Per the outcome of the analysis, the multi linear model is:
 
-mpg = 6.267 * vehicle_length + 1.245e-3 *  vehicle_weight + 6.877e-2 * spoiler_angle + 3.546 * ground_clearance -3.411* AWD – 1.040e2
+***mpg = 6.267 * vehicle_length + 1.245e-3 *  vehicle_weight + 6.877e-2 * spoiler_angle + 3.546 * ground_clearance -3.411* AWD – 1.040e2***
 
 As a result, the linear model's gradient is not considered to be zero.
 
