@@ -79,13 +79,13 @@ Fig. 7 T-Test of each manufacturing lot3 compared to the population mean Lot3.
 
 We should explore the option to do a comparative analysis based on the following metrics to evaluate the efficiency of the MechaCar concept in relation to the competition vehicles:
 
--Fuel consumption 
--Level of security
--Time it takes to go from 0 to 60 Mph
--Breaking distance 
--The Engine Power
--Weight 
--Annual maintenance cost
+- Fuel consumption 
+- Level of security
+- Time it takes to go from 0 to 60 Mph
+- Breaking distance 
+- The Engine Power
+- Weight 
+- Annual maintenance cost
 
 Based on the metrics selected, the following hypothesis and statistic test can be considered:
 
