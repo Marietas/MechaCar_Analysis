@@ -45,7 +45,8 @@ Fig. 2 shows all manufacturing lots.
 
 ![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/Total%20summary%20coils.PNG)
 
+With a global variation of 62.3 psi, the specifications are followed for all production lots.
 
-
+Fig. 3 shows the summary for each manufacturing lot.
 
 
