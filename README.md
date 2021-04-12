@@ -65,4 +65,4 @@ Fig. 5 shows T-Tests each manufacturing lot1 compared to the total population me
 
 ![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/fig5.PNG)
 
-
+Since the p-value is below the significance threshold of 0.05 percent, we can consider the hypothesis null and assume that the PSI around Lot 1 is statistically different from the population mean.
