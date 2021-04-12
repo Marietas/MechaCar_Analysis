@@ -53,3 +53,6 @@ Fig. 3 shows the summary for each manufacturing lot.
 
 Lot 1 and Lot 2 are also under the specifications required, with variances of 0.979 and 7.469 psi, respectively. With a difference of 170.286 psi, Lot 3 is out of specification.
 
+Fig. 4 
+
+![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/fig4.PNG)
