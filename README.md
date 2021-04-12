@@ -23,3 +23,6 @@ Software: RStudio 1.4.1106
 The MechaCar dataset was considered to identify the ideal Vehicle performance and several metrics were taken into consideration. For each car, different measurements were obtained, including length, weight, spoiler angle, drivetrain, and ground clearance. Thus, applying R skills, I could build a linear model that estimates MechaCar prototype mpg based on the different variables provided on MechaCar dataset file.
 
 
+Fig. 1 summarises these data.
+
+![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/fig1.PNG)
