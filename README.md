@@ -61,3 +61,4 @@ Fig.4 shows T-Test of all manufacturing lots compared to the total population me
 
 Assuming our significance level is the standard 0.05 percent, our p-value of 0.0602 is above the significance threshold. As a result, there is insufficient data to ignore the null hypothesis, and the PSI for all production lots is statistically close to the population mean of 1498.78 psi.
 
+Fig. 5 shows T-Tests each manufacturing lot1 compared to the total population mean
