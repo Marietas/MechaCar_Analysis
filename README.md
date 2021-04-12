@@ -53,6 +53,11 @@ Fig. 3 shows the summary for each manufacturing lot.
 
 Lot 1 and Lot 2 are also under the specifications required, with variances of 0.979 and 7.469 psi, respectively. With a difference of 170.286 psi, Lot 3 is out of specification.
 
-Fig. 4 
+### T-Tests on Suspension Coils
+
+Fig.4 shows T-Test of all manufacturing lots compared to the total population mean.
 
 ![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/fig4.PNG)
+
+Assuming our significance level is the standard 0.05 percent, our p-value of 0.0602 is above the significance threshold. As a result, there is insufficient data to ignore the null hypothesis, and the PSI for all production lots is statistically close to the population mean of 1498.78 psi.
+
