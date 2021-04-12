@@ -43,3 +43,9 @@ According to the design requirements, the MechaCar suspension coils must not hav
 
 Fig. 2 shows all manufacturing lots.
 
+![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/Total%20summary%20coils.PNG)
+
+
+
+
+
