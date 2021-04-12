@@ -26,3 +26,13 @@ The MechaCar dataset was considered to identify the ideal Vehicle performance an
 Fig. 1 summarises these data.
 
 ![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/fig1.PNG)
+
+Each Pr(>|t|) value in the summary output reflects the probability that each coefficient impacts a random amount of variance to the linear model. Also, the vehicle length and ground clearance (and Intercept) provide a non-random sum of variation to the linear model of mpg.
+
+Per the outcome of the analysis, the multi linear model is:
+
+**mpg = 6.267 * vehicle_length + 1.245e-3 *  vehicle_weight + 6.877e-2 * spoiler_angle + 3.546 * ground_clearance -3.411* AWD – 1.040e2**
+
+As a result, the linear model's gradient is not considered to be zero.
+
+Since the R-square is 0.7149, differences in vehicle length, weight, spoiler angle, drivetrain, and ground clearance will explain 71.49 percent of the variability in mpg. This linear model can be considered reasonably effective for predicting mpg of MechaCar prototypes.
