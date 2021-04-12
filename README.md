@@ -74,3 +74,25 @@ Fig. 6 T-test of each manufacturing lot2 compared to the total population mean L
 Fig. 7 T-Test of each manufacturing lot3 compared to the population mean Lot3.
 
 ![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/fig7.PNG)
+
+### Study Design: MechaCar vs Competition
+
+We should explore the option to do a comparative analysis based on the following metrics to evaluate the efficiency of the MechaCar concept in relation to the competition vehicles:
+
+-Fuel consumption 
+-Level of security
+-Time it takes to go from 0 to 60 Mph
+-Breaking distance 
+-The Engine Power
+-Weight 
+-Annual maintenance cost
+
+Based on the metrics selected, the following hypothesis and statistic test can be considered:
+
+The null hypothesis should be considered assuming that each performance metrics is statistically similar between the MechaCar prototype and all vehicles from the different manufacturers.
+
+In this case, one of the tools that could be employed is the ANOVA test. We should consider the use  of this method  to compare the means of a continuous numerical variable across a number of groups.
+
+In this way we can compare the means for each individual metric over the different manufacturers.
+
+A dataset similar to MechaCar would be needed to perform the test. We could create a single data frame where we could gather the data from MechaCar vehicles and its competition, as well as the data coming from the ANOVA test. 
