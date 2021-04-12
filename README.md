@@ -73,4 +73,4 @@ Fig. 6 T-test of each manufacturing lot2 compared to the total population mean L
 
 Fig. 7 T-Test of each manufacturing lot3 compared to the population mean Lot3.
 
-![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/fig6.PNG)
+![](https://github.com/Marietas/MechaCar_Analysis/blob/main/Resources/Images/fig7.PNG)
