@@ -36,3 +36,10 @@ Per the outcome of the analysis, the multi linear model is:
 As a result, the linear model's gradient is not considered to be zero.
 
 Since the R-square is 0.7149, differences in vehicle length, weight, spoiler angle, drivetrain, and ground clearance will explain 71.49 percent of the variability in mpg. This linear model can be considered reasonably effective for predicting mpg of MechaCar prototypes.
+
+### Summary Statistics on Suspension Coils
+
+According to the design requirements, the MechaCar suspension coils must not have a deviation of more than 100 pounds per square inch.
+
+Fig. 2 shows all manufacturing lots.
+
